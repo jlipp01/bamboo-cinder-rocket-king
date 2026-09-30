@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Airwave",
+      "hasCanvas": false,
+      "bodyTextLen": 1010,
+      "bodyTextHash": "113538d1fc7e6af9fc4357f44089cae8c2886312a9e30c08e8a2045196567e3d",
+      "bodyTextPrefix": "Airwave Live radio from the open web. Discover Saved Recent Stat",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Airwave",
+      "hasCanvas": false,
+      "bodyTextLen": 988,
+      "bodyTextHash": "3f6d9ba428ddfc817bb8ab484fa9b61000a3ea46be3ca41a6ca0d78b87600b5d",
+      "bodyTextPrefix": "Airwave Find a station. Press play. Discover Saved Recent Search",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
